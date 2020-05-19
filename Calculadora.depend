@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1584467461 source:c:\users\frapodeveloper\desktop\calculator-interfaces-master\calculator.c
+	<windows.h>
+	<string.h>
+	<mysql.h>
+	<stdio.h>
+
+1476134733 c:\program files (x86)\dev-cpp\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476134746 c:\program files (x86)\dev-cpp\include\mysql_com.h
+
+1476134772 c:\program files (x86)\dev-cpp\include\mysql_time.h
+
+1476134783 c:\program files (x86)\dev-cpp\include\mysql_version.h
+	<custom_conf.h>
+
+1476134923 c:\program files (x86)\dev-cpp\include\typelib.h
+
+1476134968 c:\program files (x86)\dev-cpp\include\my_list.h
+
+1476134977 c:\program files (x86)\dev-cpp\include\my_alloc.h
+
+1586029967 source:d:\cursos\lenguajes\c\calculator-interfaces-master\calculator.c
+	<windows.h>
+	<string.h>
+	<mysql.h>
+	<stdio.h>
+
